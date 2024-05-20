@@ -1,0 +1,103 @@
+{
+  "menu": [
+    {
+      "menuID": 1,
+      "parentID": null,
+      "title": "Personel",
+      "subTitle": "Personel menüsü",
+      "icon": "person",
+      "color": "#FF5733",
+      "order": 1,
+      "typeID": 1,
+      "image": "personel_image.png"
+    },
+    {
+      "menuID": 2,
+      "parentID": 1,
+      "title": "Personel Arama",
+      "subTitle": "Personel arama menüsü",
+      "icon": "search",
+      "color": "#33FF57",
+      "order": 1,
+      "typeID": 2,
+      "image": "personel_arama_image.png"
+    },
+    {
+      "menuID": 3,
+      "parentID": 1,
+      "title": "Personel Raporu",
+      "subTitle": "Personel raporu menüsü",
+      "icon": "report",
+      "color": "#3357FF",
+      "order": 2,
+      "typeID": 2,
+      "image": "personel_raporu_image.png"
+    },
+    {
+      "menuID": 4,
+      "parentID": null,
+      "title": "Kullanıcılar",
+      "subTitle": "Kullanıcılar menüsü",
+      "icon": "users",
+      "color": "#FF33A8",
+      "order": 2,
+      "typeID": 1,
+      "image": "kullanicilar_image.png"
+    },
+    {
+      "menuID": 5,
+      "parentID": 4,
+      "title": "Kullanıcı Listesi",
+      "subTitle": "Kullanıcı listesi menüsü",
+      "icon": "list",
+      "color": "#57FF33",
+      "order": 1,
+      "typeID": 2,
+      "image": "kullanici_listesi_image.png"
+    },
+    {
+      "menuID": 6,
+      "parentID": 4,
+      "title": "Roller",
+      "subTitle": "Roller menüsü",
+      "icon": "roles",
+      "color": "#5733FF",
+      "order": 2,
+      "typeID": 2,
+      "image": "roller_image.png"
+    },
+    {
+      "menuID": 7,
+      "parentID": 4,
+      "title": "Yetkiler",
+      "subTitle": "Yetkiler menüsü",
+      "icon": "permissions",
+      "color": "#33FFA8",
+      "order": 3,
+      "typeID": 2,
+      "image": "yetkiler_image.png"
+    },
+    {
+      "menuID": 8,
+      "parentID": null,
+      "title": "Araçlar",
+      "subTitle": "Araçlar menüsü",
+      "icon": "tools",
+      "color": "#FF5733",
+      "order": 3,
+      "typeID": 1,
+      "image": "araclar_image.png"
+    },
+    {
+      "menuID": 9,
+      "parentID": null,
+      "title": "Kurumsal Dökümanlar",
+      "subTitle": "Kurumsal dökümanlar menüsü",
+      "icon": "documents",
+      "color": "#33FF57",
+      "order": 4,
+      "typeID": 1,
+      "image": "kurumsal_dokumanlar_image.png"
+    }
+  ]
+}
